@@ -3,8 +3,6 @@
 <!-- GIF DE BOAS-VINDAS -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zicml4eGFicmR4N255MXo0Njh5M24wbTNuamNrcGcyMWZ0NXB1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="150px">
 
-# Olá <a href="https://www.glitter-graphics.com"><img src="http://dl5.glitter-graphics.net/pub/369/369305ynj289f4cz.gif" width=50 height=50 border=0></a>
-
 <!-- Uma frase de efeito curtinha -->
 _Apaixonada por tecnologia, design e por criar soluções incríveis._
 
