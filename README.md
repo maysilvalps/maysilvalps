@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- GIF DE BOAS-VINDAS -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zicml4eGFicmR4N255MXo0Njh5M24wbTNuamNrcGcyMWZ0NXB1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="150px">
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="550px">
 
 <!-- Uma frase de efeito curtinha -->
 _Apaixonada por tecnologia, design e por criar soluções incríveis._
